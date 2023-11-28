@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.js": "/portfolio-v2/static/js/main.bb76122d.chunk.js",
+    "main.js.map": "/portfolio-v2/static/js/main.bb76122d.chunk.js.map",
+    "runtime-main.js": "/portfolio-v2/static/js/runtime-main.1532d919.js",
+    "runtime-main.js.map": "/portfolio-v2/static/js/runtime-main.1532d919.js.map",
+    "static/css/2.764e6cce.chunk.css": "/portfolio-v2/static/css/2.764e6cce.chunk.css",
+    "static/js/2.953c9ed2.chunk.js": "/portfolio-v2/static/js/2.953c9ed2.chunk.js",
+    "static/js/2.953c9ed2.chunk.js.map": "/portfolio-v2/static/js/2.953c9ed2.chunk.js.map",
+    "static/js/3.f505db9c.chunk.js": "/portfolio-v2/static/js/3.f505db9c.chunk.js",
+    "static/js/3.f505db9c.chunk.js.map": "/portfolio-v2/static/js/3.f505db9c.chunk.js.map",
+    "index.html": "/portfolio-v2/index.html",
+    "precache-manifest.e073ad8dd90846da96aa60a8913cbc27.js": "/portfolio-v2/precache-manifest.e073ad8dd90846da96aa60a8913cbc27.js",
+    "service-worker.js": "/portfolio-v2/service-worker.js",
+    "static/css/2.764e6cce.chunk.css.map": "/portfolio-v2/static/css/2.764e6cce.chunk.css.map",
+    "static/js/2.953c9ed2.chunk.js.LICENSE.txt": "/portfolio-v2/static/js/2.953c9ed2.chunk.js.LICENSE.txt",
+    "static/media/Vector2.png": "/portfolio-v2/static/media/Vector2.b7b72ee2.png",
+    "static/media/aws.png": "/portfolio-v2/static/media/aws.c7401f52.png",
+    "static/media/coder.webp": "/portfolio-v2/static/media/coder.984acdab.webp",
+    "static/media/github.png": "/portfolio-v2/static/media/github.af96d4b7.png",
+    "static/media/gmail.png": "/portfolio-v2/static/media/gmail.2c1a7560.png",
+    "static/media/grafana.png": "/portfolio-v2/static/media/grafana.58b24d8f.png",
+    "static/media/jenkins.webp": "/portfolio-v2/static/media/jenkins.6c022ca6.webp",
+    "static/media/kuberenetes.png": "/portfolio-v2/static/media/kuberenetes.ea798a7a.png",
+    "static/media/linkedin.png": "/portfolio-v2/static/media/linkedin.d492efc7.png",
+    "static/media/net-logo.png": "/portfolio-v2/static/media/net-logo.215e3bfe.png",
+    "static/media/postman.png": "/portfolio-v2/static/media/postman.7afd2130.png",
+    "static/media/redis.png": "/portfolio-v2/static/media/redis.8a65e61b.png",
+    "static/media/slick-theme.css": "/portfolio-v2/static/media/slick.f97e3bbf.svg",
+    "static/media/spring-boot-logo.png": "/portfolio-v2/static/media/spring-boot-logo.0881dacc.png",
+    "static/media/wave.png": "/portfolio-v2/static/media/wave.eb373e5d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1532d919.js",
+    "static/css/2.764e6cce.chunk.css",
+    "static/js/2.953c9ed2.chunk.js",
+    "static/js/main.bb76122d.chunk.js"
+  ]
+}
