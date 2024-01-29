@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61e3417b3616306a0ed74c842a93a33f",
+    "revision": "d4d904a410e45a8fbb3667c69f24d524",
     "url": "/portfolio-v2/index.html"
   },
   {
-    "revision": "2878bc10288f46a66cf7",
+    "revision": "4cd1d154a5f527472c13",
     "url": "/portfolio-v2/static/css/2.764e6cce.chunk.css"
   },
   {
-    "revision": "2878bc10288f46a66cf7",
-    "url": "/portfolio-v2/static/js/2.1252ebda.chunk.js"
+    "revision": "4cd1d154a5f527472c13",
+    "url": "/portfolio-v2/static/js/2.6da711aa.chunk.js"
   },
   {
     "revision": "a6a6f2517c7a12ff148c384e26113c97",
-    "url": "/portfolio-v2/static/js/2.1252ebda.chunk.js.LICENSE.txt"
+    "url": "/portfolio-v2/static/js/2.6da711aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8c5ebfc09f4d876c5637",
-    "url": "/portfolio-v2/static/js/3.deb443bd.chunk.js"
+    "revision": "b8d1c7cdaa863e3c599e",
+    "url": "/portfolio-v2/static/js/3.707e13fe.chunk.js"
   },
   {
-    "revision": "8104fa9af744f50b76a4",
-    "url": "/portfolio-v2/static/js/main.687dd59c.chunk.js"
+    "revision": "7f81853bec652ea1053a",
+    "url": "/portfolio-v2/static/js/main.97ce8a5d.chunk.js"
   },
   {
-    "revision": "5cb13d6ed4a5118f01d2",
-    "url": "/portfolio-v2/static/js/runtime-main.ddd619e4.js"
+    "revision": "f92a2cbc3e62fb51e444",
+    "url": "/portfolio-v2/static/js/runtime-main.f94de71f.js"
   },
   {
-    "revision": "709683a8fe89b9301fd55b304b7d8ead",
-    "url": "/portfolio-v2/static/media/CV_Nischal_Dwaral.709683a8.pdf"
+    "revision": "fa239a57ecdac9704415fbb7c0b1a052",
+    "url": "/portfolio-v2/static/media/Resume_Nischal_Dwaral.fa239a57.pdf"
   },
   {
     "revision": "b7b72ee27b480abe72189248cea33cae",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "215e3bfec4268badf069ca91af2bf43b",
     "url": "/portfolio-v2/static/media/net-logo.215e3bfe.png"
+  },
+  {
+    "revision": "076303a788705113dc6cebc4fe59a02d",
+    "url": "/portfolio-v2/static/media/nosql.076303a7.png"
   },
   {
     "revision": "7afd213071e52a3a50d7d9c9db74d29b",
